@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.orange{
+    width: 700px;
+    height: 600px;
+    background-color:#fea500;
+    margin: 20px  auto;
+    
+}
+.yellow{
+    width: 90%;
+    height: 90%;
+    background-color: #fdff00;
+    margin: 0 auto;
+}
+.green{
+    width: 90%;
+    height: 90%;
+    background-color: #adff30;
+    margin: 0 auto;
+}
+.blue{
+    width: 90%;
+    height: 90%;
+    background-color: #add9e6;
+    margin: 0 auto;
+}
+img{
+    width: 100%;
+    height: 70%;
+    margin: 40px 0;
+}
